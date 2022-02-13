@@ -1,0 +1,15 @@
+-e IP addresses on this computer are:
+        IP Address: 169.254.116.230  
+		Subnet Mask: 255.255.0.0  
+		Broadcast Address: 169.254.255.255
+        IP Address: 169.254.230.227  
+		Subnet Mask: 255.255.0.0  
+		Broadcast Address: 169.254.255.255
+        IP Address: 169.254.158.48  
+		Subnet Mask: 255.255.0.0  
+		Broadcast Address: 169.254.255.255
+        IP Address: 127.0.0.1  
+		Subnet Mask: 255.0.0.0
+        IP Address: 192.168.0.2  
+		Subnet Mask: 255.255.255.0  
+		Broadcast Address: 192.168.0.255
